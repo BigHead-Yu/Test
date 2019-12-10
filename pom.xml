@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.com.zeroten</groupId>    //组织id
-    <artifactId>javales</artifactId>      //
-    <version>1.0.0</version>              //
-    <packaging>jar</packaging>            //打包形式
+    <groupId>com.com.zeroten</groupId>
+    <artifactId>javales</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
 
     <name>Java Lesson</name>
 
